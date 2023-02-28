@@ -1,4 +1,4 @@
-## How to generate random colors in JavaScript
+## Generate random colors in JavaScript
 
 ### Basic concepts: 
 In JavaScript, colors are represented as strings in a specific format. The format depends on 
